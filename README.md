@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
- <a href="https://www.twitter.com/selimellieh" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="selimplayselim" height="30" width="40" /></a>
+ <a href="https://www.twitter.com/selim_ellieh" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="selimplayselim" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/selimplayselim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="selimplayselim" height="30" width="40" /></a>
 </p>
 
