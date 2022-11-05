@@ -1,7 +1,9 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png)](https://selimellieh.com)
 <h1 align="center">Hi 👋, I'm Selim Ellieh</h1>
 <h3 align="center">Coding lover since beginning of times till the end of times</h3>
-![](giphy.gif)
+
+<img style="margin: 0 auto;" src="https://github.com/selimellieh72/selimellieh72/blob/main/giphy.gif?raw=true"/> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimellieh72&label=Profile%20views&color=0e75b6&style=flat" alt="selimellieh72" /> </p>
 
 - 🌱 I’m currently learning **C#, Unity, Laravel**
@@ -11,6 +13,8 @@
 - 💬 Ask me about **Django, React, Flutter**
 
 - ⚡ **I am specialized at Full Stack Web Development and Hybrid Mobile Apps**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
