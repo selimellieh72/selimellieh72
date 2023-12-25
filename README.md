@@ -1,4 +1,4 @@
-[![MasterHead](i.imgur.com/FOQjFd7.jpg)](https://selimellieh.me)
+[![MasterHead](https://i.imgur.com/FOQjFd7.jpg)](https://selimellieh.me)
 <h1 align="center">Hi 👋, I'm Selim Ellieh</h1>
 <h3 align="center">Coding lover since beginning of times till the end of times</h3>
 
