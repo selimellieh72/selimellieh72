@@ -8,7 +8,7 @@
 
 - 🌱 Enhancing my expertise in Full Stack Development and exploring Machine Learning.
 
-- 📁 View my professional portfolio at [selimellieh.me](https://www.selimellieh.me).
+- 📁 View my professional portfolio at [selimellieh72.github.io](https://selimellieh72.github.io).
 
 - 👨‍💻 My complete range of projects is available at [github.com/selimellieh72](https://github.com/selimellieh72/selimellieh72/).
  
