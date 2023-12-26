@@ -60,13 +60,13 @@
 - **Description**: A book exchange app facilitating affordable access to education during Lebanon's economic crisis.
 - **Technologies**: React Native, Expo, Node.JS, Express.JS, Mongoose, Socket.IO
   
-### [Project Name 3](Link_to_Project_Repo)
-- **Description**: A concise description of the project, focusing on any unique aspects.
-- **Technologies**: Machine Learning, Python, TensorFlow
+### [WineMetrics](https://github.com/selimellieh72/WineMetrics)
+- **Description**: An innovative ML model for accurately predicting wine quality, uniquely built from scratch using Python and NumPy.
+- **Technologies**: Machine Learning, Python, Numpy
 
-### [Project Name 4](Link_to_Project_Repo)
-- **Description**: Overview of the project, its goals, and outcomes.
-- **Technologies**: Laravel, Vue.js, MySQL
+### [MetaMedAPP](https://github.com/selimellieh72/MetaMedApp)
+- **Description**: Developed for WRO22, simplifies medicine purchases with innovative retrieval.
+- **Technologies**: React Native, EXPO, Google's Cloud Vision, Google Maps.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimellieh72&show_icons=true&locale=en&layout=compact" alt="selimellieh72" /></p>
