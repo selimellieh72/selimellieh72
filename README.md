@@ -50,6 +50,24 @@
 - **Concepts:** OOP, Abstraction, Algorithms, Analysis of Algorithms, Big O Notation
 - **Data Structures:** Lists, Trees, Heaps, Graphs
 
+## Highlighted Projects
+
+### [Project Name 1](Link_to_Project_Repo)
+- **Description**: Brief description of the project, highlighting key features or challenges.
+- **Technologies**: HTML, CSS, React, Node.js
+
+### [Project Name 2](Link_to_Project_Repo)
+- **Description**: Brief explanation of what the project does and its significance.
+- **Technologies**: Django, PostgreSQL, Bootstrap
+
+### [Project Name 3](Link_to_Project_Repo)
+- **Description**: A concise description of the project, focusing on any unique aspects.
+- **Technologies**: Machine Learning, Python, TensorFlow
+
+### [Project Name 4](Link_to_Project_Repo)
+- **Description**: Overview of the project, its goals, and outcomes.
+- **Technologies**: Laravel, Vue.js, MySQL
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimellieh72&show_icons=true&locale=en&layout=compact" alt="selimellieh72" /></p>
 
