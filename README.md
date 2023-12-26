@@ -52,14 +52,14 @@
 
 ## Highlighted Projects
 
-### [Project Name 1](Link_to_Project_Repo)
-- **Description**: Brief description of the project, highlighting key features or challenges.
-- **Technologies**: HTML, CSS, React, Node.js
+### [Distancia](https://github.com/selimellieh72/Distancia)
+- **Description**: Developed during COVID-19, a Moodle-like platform for online education.
+- **Technologies**: Node.JS, React.JS, Express.JS, Mongoose, Socket.IO
 
-### [Project Name 2](Link_to_Project_Repo)
-- **Description**: Brief explanation of what the project does and its significance.
-- **Technologies**: Django, PostgreSQL, Bootstrap
-
+### [Zoey](https://github.com/Posenega/Zoey)
+- **Description**: A book exchange app facilitating affordable access to education during Lebanon's economic crisis.
+- **Technologies**: React Native, Expo, Node.JS, Express.JS, Mongoose, Socket.IO
+  
 ### [Project Name 3](Link_to_Project_Repo)
 - **Description**: A concise description of the project, focusing on any unique aspects.
 - **Technologies**: Machine Learning, Python, TensorFlow
