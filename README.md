@@ -1,20 +1,21 @@
 [![MasterHead](https://i.imgur.com/FOQjFd7.jpg)](https://selimellieh.me)
 <h1 align="center">Hi 👋, I'm Selim Ellieh</h1>
-<h3 align="center">Coding lover since beginning of times till the end of times</h3>
+<h3 align="center">Bridging Full Stack Development with Modern Machine Learning Techniques</h3>
 
 <img style="margin: 0 auto;" src="https://github.com/selimellieh72/selimellieh72/blob/main/giphy.gif?raw=true"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimellieh72&label=Profile%20views&color=0e75b6&style=flat" alt="selimellieh72" /> </p>
+- 🌱 Enhancing my expertise in Full Stack Development and exploring Machine Learning.
 
-- 🌱 I’m currently learning **C#, Unity, Laravel**
+- 📁 View my professional portfolio at [selimellieh.me](https://www.selimellieh.me).
 
-- 📁 Check my portfolio at [selimellieh.me](https://www.selimellieh.me)
+- 👨‍💻 My complete range of projects is available at [github.com/selimellieh72](https://github.com/selimellieh72/selimellieh72/).
+- 
+- 💬 Discuss Django, React, and Full Stack innovations with me.
 
-- 👨‍💻 All of my projects are available at [github.com/selimellieh72](https://github.com/selimellieh72/selimellieh72/)
+- ⚡ Specialized in Full Stack Web Development and embracing Machine Learning technologies.
 
-- 💬 Ask me about **Django, React, Flutter**
 
-- ⚡ **I am specialized at Full Stack Web Development and Hybrid Mobile Apps**
 
 
 
