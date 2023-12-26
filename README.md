@@ -11,6 +11,8 @@
 - 📁 View my professional portfolio at [selimellieh72.github.io](https://selimellieh72.github.io).
 
 - 👨‍💻 My complete range of projects is available at [github.com/selimellieh72](https://github.com/selimellieh72/selimellieh72/).
+
+- 📄 Access my [CV](https://github.com/selimellieh72/selimellieh72/blob/main/selim%20ellieh's%20cv.pdf) for a detailed overview of my experience and skills.
  
 - 💬 Discuss Django, React, and Full Stack innovations with me.
 
