@@ -10,7 +10,7 @@
 - 📁 View my professional portfolio at [selimellieh.me](https://www.selimellieh.me).
 
 - 👨‍💻 My complete range of projects is available at [github.com/selimellieh72](https://github.com/selimellieh72/selimellieh72/).
-- 
+ 
 - 💬 Discuss Django, React, and Full Stack innovations with me.
 
 - ⚡ Specialized in Full Stack Web Development and embracing Machine Learning technologies.
