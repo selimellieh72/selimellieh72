@@ -5,6 +5,7 @@
 <img style="margin: 0 auto;" src="https://github.com/selimellieh72/selimellieh72/blob/main/giphy.gif?raw=true"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimellieh72&label=Profile%20views&color=0e75b6&style=flat" alt="selimellieh72" /> </p>
+
 - 🌱 Enhancing my expertise in Full Stack Development and exploring Machine Learning.
 
 - 📁 View my professional portfolio at [selimellieh.me](https://www.selimellieh.me).
